@@ -1,5 +1,5 @@
 # pg-api 
-### The easiest way to connect to a PostgreSQL server with Node
+### The easiest way to connect to a PostgreSQL server with Node.js
 
 ## Installation:
 
