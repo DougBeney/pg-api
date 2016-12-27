@@ -1,3 +1,12 @@
-### pg-api is the simplest way to connect to a PostgreSQL server with Node
+# pg-api 
+### The easiest way to connect to a PostgreSQL server with Node
 
-(Readme.md file is currently under construction.)
+## Installation:
+
+`npm install pg-api`
+
+## Functions
+
+- init: function(settings)
+- getData: function(query_msg, endFunc, next)
+- runQuery: function(query_msg, next)
